@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Cliente/OneDrive/SENAC/4º Semestre/spring-boot-vaadin/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Cliente/OneDrive/SENAC/4º Semestre/spring-boot-vaadin/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Cliente/OneDrive/SENAC/4º Semestre/spring-boot-vaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Cliente\\OneDrive\\SENAC\\4º Semestre\\spring-boot-vaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Cliente\\OneDrive\\SENAC\\4º Semestre\\spring-boot-vaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Cliente/OneDrive/SENAC/4º Semestre/spring-boot-vaadin/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Cliente/OneDrive/SENAC/4º Semestre/spring-boot-vaadin/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Cliente/OneDrive/SENAC/4º Semestre/spring-boot-vaadin/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Cliente\\OneDrive\\SENAC\\4º Semestre\\spring-boot-vaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
